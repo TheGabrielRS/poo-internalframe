@@ -48,4 +48,8 @@ public class Gerenciador {
             return false;
         }
     }
+    
+    public boolean fazCadastro(){
+        return true;
+    }
 }
